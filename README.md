@@ -1,4 +1,4 @@
-# MATLAB coding
+# General coding
 
 Welcome to somewhat a practical library with MATLAB codes
 
